@@ -1,0 +1,5 @@
+spring.application.name=MS-Products
+spring.h2.console.enabled=true
+spring.cloud.config.enabled=false
+eureka.client.enabled=false
+mes-configs.limitDeProduits=3
